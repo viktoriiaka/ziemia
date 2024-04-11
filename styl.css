@@ -1,0 +1,60 @@
+*{
+    margin: 10px;
+}
+#heder{
+    background-color: rgb(18, 135, 18);
+    margin-top: auto;
+    width: 100%;
+    display: flex;
+}
+#heder h1{
+	font-size: 400%;
+	font-weight: bold;
+	text-decoration: none;
+   text-align: right;
+    margin: 10px;
+}
+#menu{
+    background-color: white;
+    display: flex;
+    width: 98.9%;
+    height: 1000px;
+    padding: 10px;
+}
+#lewo{
+    background-color:rgb(18, 135, 18);
+    margin-left: 0;
+    padding: 20px;
+    width: 25%;
+    text-align: center;
+}
+#prawo{
+    margin-right: 0;
+    background-color: white;
+    width: 69%;
+    padding: 20px;
+}
+footer{
+    margin-bottom: 0;
+    background-color: rgb(18, 135, 18);
+    text-align: right;
+    width: 100%;
+    height: 50px;
+}
+#lewo a{
+    font-size: 200%;
+    color: black;
+}
+#prawo p{
+    font-size: 155%;
+    text-align: justify;
+}
+footer p{
+    font-size: 150%;
+}
+#prawo img{
+    padding: 300px;
+}
+#lewo p{
+    margin: 50px;
+}
